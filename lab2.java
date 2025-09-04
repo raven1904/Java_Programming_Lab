@@ -17,7 +17,7 @@ public class lab2 {
     int[] arr = new int[size];
 
     // take array elements from user
-    System.out.println("Enter " + size + " elements:");
+    System.out.println("Enter " + size + " elements (space seperated):");
     int entered = 0; // track number of elements entered
 
     // handles cases where user enters less or more elements
