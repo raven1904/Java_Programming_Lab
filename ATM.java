@@ -119,7 +119,7 @@ public class ATM {
       System.out.println("2. Create New Account");
       System.out.println("3. Exit");
       System.out.print("Enter your choice: ");
-      int mainChoice = sc.nextInt();
+      int mainChoice = sc.nextInt(  );
 
       if (mainChoice == 1) {
         // ---- Login flow ----
