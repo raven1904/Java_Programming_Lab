@@ -1,4 +1,4 @@
-package Java_Programming_Lab.vehicles;
+package vehicles;
 
 // Abstract base class
 public abstract class Vehicle {
@@ -16,5 +16,3 @@ public abstract class Vehicle {
     // Abstract method (must be overridden by subclasses)
     public abstract void displayDetails();
 }
-
-

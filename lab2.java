@@ -1,4 +1,3 @@
-package Java_Programming_Lab;
 
 // Program: Count number of even and odd elements in an array
 // Concepts used: for loop, if-else statements, single-dimensional array

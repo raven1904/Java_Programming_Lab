@@ -1,4 +1,4 @@
-package Java_Programming_Lab;
+
 // Program: Calculator for arithmetic operations using switch-case and do-while loop
 
 import java.util.Scanner; // Import Scanner class for user input

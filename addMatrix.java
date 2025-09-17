@@ -1,4 +1,3 @@
-package Java_Programming_Lab;
 
 public class addMatrix {
   public static void main(String[] args) {

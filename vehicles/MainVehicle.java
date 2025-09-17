@@ -1,15 +1,13 @@
-package Java_Programming_Lab;
-import vehicles.*;
+package vehicles;
 import java.util.*;
 
 public class MainVehicle {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
-    // Using dynamic method dispatch (base class reference, subclass object)
-    MainVehicle v;
+    Vehicle v;
 
-    System.out.println("=== Vehicle Management System ===");
+    System.out.println("-=<< Vehicle Management System >>=-");
     System.out.println("Choose a vehicle type: 1. Car  2. Bike  3. Truck");
     int choice = sc.nextInt();
 

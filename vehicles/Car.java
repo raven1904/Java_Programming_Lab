@@ -1,4 +1,4 @@
-package Java_Programming_Lab.vehicles;
+package vehicles;
 
 public class Car extends Vehicle {
     private int seatingCapacity;

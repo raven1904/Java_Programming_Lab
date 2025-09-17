@@ -1,4 +1,4 @@
-package Java_Programming_Lab.vehicles;
+package vehicles;
 
 public class Truck extends Vehicle {
   private double loadCapacity;

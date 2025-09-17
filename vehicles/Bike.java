@@ -1,4 +1,4 @@
-package Java_Programming_Lab.vehicles;
+package vehicles;
 
 public class Bike extends Vehicle {
   private boolean hasGear;
